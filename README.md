@@ -1,8 +1,3 @@
-https://api-calling-in-reactjs.vercel.app/
-<img width="1920" height="3108" alt="screencapture-localhost-5175-2025-12-10-15_41_25" src="https://github.com/user-attachments/assets/26bd2a45-3884-443d-8300-db22e0bfc636" />
-<img width="1920" height="945" alt="screencapture-localhost-5175-products-7-2025-12-10-15_41_49" src="https://github.com/user-attachments/assets/11da9011-6b4a-423d-bba1-64f1ce8594e6" />
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
