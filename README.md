@@ -1,3 +1,9 @@
+https://jj-ki.vercel.app/
+<img width="1920" height="1876" alt="screencapture-localhost-5174-2025-12-12-13_54_15" src="https://github.com/user-attachments/assets/69543a08-6a5f-4a8f-aa24-2df9a427cce2" />
+<img width="1920" height="1097" alt="screencapture-localhost-5174-user-1-2025-12-12-13_54_35" src="https://github.com/user-attachments/assets/b9a99150-e0ce-4805-a23b-68a92d345b1e" />
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
