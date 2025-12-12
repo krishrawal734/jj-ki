@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./page/Home";
-import Userview from "./page/UserView";
+import Home from "./page/Home.jsx";
+import UserView from "./page/Userview.jsx";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 
@@ -17,7 +17,7 @@ function App() {
         <main className="flex-grow">
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/user/:id" element={<Userview />} />
+            <Route path="/user/:id" element={<UserView />} />
           </Routes>
         </main>
 
